@@ -1,0 +1,8 @@
+number of epoch:100
+number of ants:3
+alpha:1.9
+beta:0.9
+rho:0.05
+q0:0.5
+
+
